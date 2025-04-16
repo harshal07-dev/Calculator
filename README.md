@@ -14,4 +14,4 @@ A clean and responsive calculator built using vanilla JavaScript, HTML, and CSS.
     
 🙌 Contributing
 
-Want to improve it? Go for it! Fork the repo, make your changes, and open a PR.
+Want to improve it? Go for it! Fork the repo, make your changes, and open a Pull Request.
