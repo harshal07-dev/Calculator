@@ -13,4 +13,5 @@ A clean and responsive calculator built using vanilla JavaScript, HTML, and CSS.
     🎯 Simple logic using new Function() for evaluation
     
 🙌 Contributing
+
 Want to improve it? Go for it! Fork the repo, make your changes, and open a PR.
