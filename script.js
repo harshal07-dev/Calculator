@@ -47,7 +47,7 @@ function deleteLastChar() {
 function handleInput(value) {
     if (value === '.' && string.includes('.')) return;
 
-    if (string === "" && ["+", "x", "/", "–"].includes(value)) return;
+    if (string === "" && ["+", "x", "÷", "–"].includes(value)) return;
 
     if (["+", "x", "/", "–"].includes(value) && ["+", "x", "/", "–"].includes(string.slice(-1))) return;
 
