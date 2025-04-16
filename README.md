@@ -11,3 +11,6 @@ A clean and responsive calculator built using vanilla JavaScript, HTML, and CSS.
     🧠 Prevents invalid inputs (e.g., double operators)
     ⚠️ Error handling for invalid expressions
     🎯 Simple logic using new Function() for evaluation
+    
+🙌 Contributing
+Want to improve it? Go for it! Fork the repo, make your changes, and open a PR.
