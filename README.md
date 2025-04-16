@@ -4,6 +4,7 @@ A clean and responsive calculator built using vanilla JavaScript, HTML, and CSS.
 ![calculator](https://github.com/user-attachments/assets/51ba367b-74b0-4beb-96f6-84e7255ab5f4)
 
 🚀 Features
+
     ➕ Basic operations: Addition, Subtraction, Multiplication, Division
     🔢 Handles decimals and percentages
     🧼 Clear (AC) and Delete (DEL) functionality
